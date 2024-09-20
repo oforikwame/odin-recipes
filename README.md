@@ -1,6 +1,3 @@
-#:
-
----
 
 # Recipe Website
 
@@ -21,8 +18,4 @@ This is my first project, a simple recipe website. It provides brief description
 ## Project Structure
 
 - `index.html` – Main page listing recipes
-- `styles.css` – Styling for the website
-
----
-
-This version is concise and to the point. Let me know if you'd like any tweaks!
+- `styles.css` – Styling for the website css
